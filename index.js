@@ -17,6 +17,6 @@ function sayHiToGrandma(string) {
  console.log("I can\'t hear you!")
  if ('HELLO' === uppercase)
  console.log("YES INDEED!")
- if ('I love you, Grandma.' === mixed Case)
+ if ('I love you, Grandma.' === mixedCase)
  console.log('I love you, too.')
 }
